@@ -26,24 +26,50 @@ Wejdź na stronę <https://www.sfml-dev.org/download/sfml/2.5.1/> i pobierz wers
 
 ![sfml](https://github.com/maksimus209/mokey-project-wdp/assets/135655103/59a6402d-b332-4c78-8413-9bdf51a1c0ac)
 
-
 Wypakuj w dowolnym miejscu folder SFML. Otwórz projekt w Visual Studio.
+
+![1](https://github.com/maksimus209/mokey-project-wdp/assets/135655103/ebde9ac5-0dc8-453d-9805-27532f8ae0e7)
+
 
 Kliknij prawym przyciskiem myszy na swoją aplikację i wybierz właściwości.
 
+![2](https://github.com/maksimus209/mokey-project-wdp/assets/135655103/a6ed15c0-5752-4d23-9056-5068310d88e7)
+
+
 Otwórz zakładkę C/C++ i wybierz Dodatkowe katalogi plików nagłówkowych
+
+![3](https://github.com/maksimus209/mokey-project-wdp/assets/135655103/78f77816-51b3-4aca-9634-08c6d78fe9db)
+
 
 Wybierz edytuj
 
+![4](https://github.com/maksimus209/mokey-project-wdp/assets/135655103/bbdf34b0-d44d-4d71-b6b1-e3a39e6777d8)
+
+
 Następnie wklej ścieżkę folderu “include” z wypakowanego SFML
+
+![5](https://github.com/maksimus209/mokey-project-wdp/assets/135655103/ee9bd621-1290-47d7-8add-b34b86c577f3)
+
 
 Wzakładce Preprocesor edytuj pole “Definicje preprocesora”
 
+![6](https://github.com/maksimus209/mokey-project-wdp/assets/135655103/379bfe46-206d-4765-ad69-dfa60d4db71f)
+
+
 W wyznaczonym polu należy dopisać: SFML\_STATIC
+
+![7](https://github.com/maksimus209/mokey-project-wdp/assets/135655103/fdbb12fa-28ee-4734-a427-e28ed3527628)
+
 
 Teraz otwieramy zakładkę Konsolidator, a w niej Ogólne i wyszukujemy Dodatkowe katalogi biblioteki.
 
+![8](https://github.com/maksimus209/mokey-project-wdp/assets/135655103/8897aa3c-44f3-40aa-9652-0fadd478e1ad)
+
+
 W wyznaczonym polu wklejamy ścieżkę do folderu lib z wypakowanego SFML
+
+![9](https://github.com/maksimus209/mokey-project-wdp/assets/135655103/2f9bfa6f-835b-4eaf-9f32-a601ed087958)
+
 
 Następnie otwieramy zakładkę Dane Wejściowe w Konsolidatorze
 
