@@ -58,20 +58,19 @@ Wzakładce Preprocesor edytuj pole “Definicje preprocesora”
 
 W wyznaczonym polu należy dopisać: SFML\_STATIC
 
-![7](https://github.com/maksimus209/mokey-project-wdp/assets/135655103/fdbb12fa-28ee-4734-a427-e28ed3527628)
-
 
 Teraz otwieramy zakładkę Konsolidator, a w niej Ogólne i wyszukujemy Dodatkowe katalogi biblioteki.
+
+![7](https://github.com/maksimus209/mokey-project-wdp/assets/135655103/fdbb12fa-28ee-4734-a427-e28ed3527628)
+
+W wyznaczonym polu wklejamy ścieżkę do folderu lib z wypakowanego SFML
 
 ![8](https://github.com/maksimus209/mokey-project-wdp/assets/135655103/8897aa3c-44f3-40aa-9652-0fadd478e1ad)
 
 
-W wyznaczonym polu wklejamy ścieżkę do folderu lib z wypakowanego SFML
+Następnie otwieramy zakładkę Dane Wejściowe w Konsolidatorze
 
 ![9](https://github.com/maksimus209/mokey-project-wdp/assets/135655103/2f9bfa6f-835b-4eaf-9f32-a601ed087958)
-
-
-Następnie otwieramy zakładkę Dane Wejściowe w Konsolidatorze
 
 Wklejamy w polu Dodatkowe zależności następujące rzeczy:
 
