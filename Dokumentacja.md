@@ -23,6 +23,7 @@ Na początku chcieliśmy użyć omawianej na ćwiczeniu biblioteki „Allegro 5�
 1. Tutorial
 
 Wejdź na stronę <https://www.sfml-dev.org/download/sfml/2.5.1/> i pobierz wersję odpowiadającą twojemu VS. Jeśli używasz programu Visual Studio 2015 lub nowszego, możesz śmiało użyć wersji SFML skompilowanej dla Visual C++ 15 (VS 2017), która jest nadal kompatybilna z nowszymi wersjami zestawu narzędzi.
+
 ![sfml](https://github.com/maksimus209/mokey-project-wdp/assets/135655103/59a6402d-b332-4c78-8413-9bdf51a1c0ac)
 
 
